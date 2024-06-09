@@ -1,7 +1,6 @@
 baseurl: '/'
 permalink: pretty
 title: 'SingleTwin Solutions'
-
 logo:
   mobile: "images/logo/sts-logo-mobile.png"
   mobile_height: "128px"
@@ -9,10 +8,8 @@ logo:
   desktop: "images/logo/sts-logo2.svg"
   desktop_height: "32px"
   desktop_width: "120px"
-
 home: 
   limit_services: 6
-
 collections:
   services:
     output: true

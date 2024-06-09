@@ -8,6 +8,9 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 3
+  - name: "Quick Fix"
+    url: "/quick-fix/"
+    weight: 4
 #  - name: "Capabilities"
 #    url: "/capabilities/"
 #    weight: 4
@@ -35,9 +38,9 @@ footer:
   - name: "Privacy Policy"
     url: "/privacy-policy/"
     weight: 4
-  - name: "Terms"
-    url: "/terms-and-conditions/"
-    weight: 5
+#  - name: "Terms"
+#    url: "/terms-and-conditions/"
+#    weight: 5
   - name: "Contact"
     url: "/contact/"
     weight: 6
