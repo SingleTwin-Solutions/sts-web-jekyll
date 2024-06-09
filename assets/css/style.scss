@@ -1,23 +1,14 @@
 ---
 ---
-
 // Colors 
 //
-// $primary: #4dba87; // base red color 
-// $primary-dark: #4dba87;
-// $secondary: #3a1411;
-// $black: #2f2f41;
-// $white: #ffffff;
-// $white-offset: #fff6f8;
-// $steel: #5c5a5a;
-
 $primary: #4dba87; // base red color 
-$primary-dark: #478c5c; // Emerald Green
+$primary-dark: #0079c1; // IT consulting blue
 $secondary: #3a1411;
 $black: #20202e;
 $light-gray: #20202e; // light gray color
 $white: #eaedf5; // light gray color
-$white-offset: #3d503a;  // Forest Green
+$white-offset: #e6f6ff;  // 89% lighter than IT blue
 $callbox-color: #515255; // gray
 $steel: #5c5a5a;
 $blue-gray: #929ead;
@@ -64,7 +55,7 @@ $sub-footer-text-color: $white;
 @import "bootstrap/grid";
 @import "bootstrap/tables";
 @import "bootstrap/forms";
-// @import "bootstrap/buttons";
+@import "bootstrap/buttons";
 // @import "bootstrap/transitions";
 // @import "bootstrap/dropdown";
 // @import "bootstrap/button-group";
