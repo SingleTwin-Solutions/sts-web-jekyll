@@ -1,7 +1,7 @@
 [
   {
-    "title": "Integrity",
-    "description": "We are committed to being honest, trustworthy, respectful, and ethical with our employees and clients.",
+    "title": "Free Consultation",
+    "description": "New clients receive an obligation free consultation.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Quality",
-    "description": "We embrace our responsibilities and always strive to produce excellent results.",
+    "title": "Certified Engineers",
+    "description": "All members of our team are certified engineers",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Innovation",
-    "description": "We foster an environment where our employees are fountains of fresh and unique ideas.",
+    "title": "Quick Fixes",
+    "description": "We offer full-service solutions and help desk/it-related quick fixes",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
