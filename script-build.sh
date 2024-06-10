@@ -1,5 +1,5 @@
 #!/bin/bash
-# setup jekyll site locally 
+# setup jekyll site locally
 # Install Ruby
 apt install ruby ruby-bundler ruby-dev
 # Configure Bundler Install Path
@@ -14,3 +14,12 @@ bundle install
 
 #Spring up website on localhost
 bundle exec jekyll serve --livereload
+
+
+# STEPS FOR OSX
+# brew update
+# brew install ruby-build
+# brew install rbenv ruby-build
+# bundle config set --local path 'vendor/bundle'
+# bundle install
+# bundle exec jekyll serve --livereload

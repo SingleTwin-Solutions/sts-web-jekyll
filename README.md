@@ -1,19 +1,19 @@
 # SingleTwin Solutions
 
-[singletwinsolutions.com](https://singletwinsolutions.com) 
-[Jekyll version: ~> 4.3 ](https://jekyllrb.com/news/2022/10/20/jekyll-4-3-0-released/) 
-[Ruby version: x.x.x](https://icons8.com) 
-[Icons: icons8](https://icons8.com)  
+[singletwinsolutions.com](https://singletwinsolutions.com)
+[Jekyll version: ~> 4.3 ](https://jekyllrb.com/news/2022/10/20/jekyll-4-3-0-released/)
+[Ruby version: 3.2.2 ](https://icons8.com)
+[Icons: icons8](https://icons8.com)
 
 
-* [SVG and PNG images | The Noun Project](https://thenounproject.com/search/icons/?q=consulting) 
+* [SVG and PNG images | The Noun Project](https://thenounproject.com/search/icons/?q=consulting)
 * [Source Github project](https://github.com/SingleTwin-Solutions/sts-web-jekyll)
 
 ```
-Branding Fonts: 
+Branding Fonts:
 Montserrat ExtraBold
-Type Machine 
- 
+Type Machine
+
 ---
 ## Installation
 
