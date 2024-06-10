@@ -2,14 +2,14 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "About"
-    url: "/about/"
-    weight: 2
   - name: "Services"
     url: "/services/"
-    weight: 3
+    weight: 2
   - name: "Quick Fix"
     url: "/quick-fix/"
+    weight: 3
+  - name: "About"
+    url: "/about/"
     weight: 4
 #  - name: "Capabilities"
 #    url: "/capabilities/"
