@@ -2,7 +2,7 @@
 title: "Linux Support Services"
 layout: linux
 date: 2019-02-28T15:15:34+10:00
-icon: "fa-regular fa-wrench"
+image: "assets/images/icons/bionic-hand.png"
 weight: 7
 ---
 

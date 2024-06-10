@@ -3,7 +3,7 @@ title: SingleTwin Solutions
 layout: page
 description: About
 bodyClass: page-about
-intro_image: "images/illustrations/noun-cloud-services.svg"
+intro_image: "assets/images/illustrations/noun-cloud-services.svg"
 #intro_image_absolute: true
 ---
 

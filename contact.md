@@ -2,7 +2,7 @@
 title: Contact Us
 layout: contact
 description: Contact
-intro_image: "images/logo/Singletwin-BLK.svg"
+intro_image: "assets/images/logo/Singletwin-BLK.svg"
 contact_form: true
 ---
 

@@ -1,6 +1,9 @@
 ---
-title: QUICK FIX
+title: Quick Solutions
 layout: quick-fix
+intro_image: "assets/images/illustrations/quick-fix-flat-design-cms-illustration.png"
+intro_image_absolute: false
+intro_image_hide_on_mobile: true
 show_pricing: true 
 ---
 

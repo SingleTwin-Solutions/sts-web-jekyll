@@ -28,8 +28,11 @@ bodyClass: "page-home"
       {% for service in site.services limit: limit %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
-          <div class="service-content">
+          <div class="service-content"> 
             <h2 class="service-title">
+              <img class="service-img-thumbnail" 
+              src="{{ service.image | relative_url }}" 
+              alt="{{ page.title }}" />
               <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
             </h2>
             <p>{{ service.excerpt | markdownify | strip_html | truncate: 100 }}</p>

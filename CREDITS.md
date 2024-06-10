@@ -134,32 +134,32 @@ Hex codes: #008080, #808080
   {
     "name": "Github",
     "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "image": "assets/images/social/github.svg"
   },
   {
     "name": "Twitter",
     "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
+    "image": "assets/images/social/twitter.svg"
   },
   {
       "name": "Facebook",
       "link": "https://facebook.com",
-      "image": "images/social/facebook.svg"
+      "image": "assets/images/social/facebook.svg"
   },
   {
       "name": "Email",
       "link": "mailto:ekyllserif@example.com ",
-      "image": "images/social/email.svg"
+      "image": "assets/images/social/email.svg"
   },
   {
       "name": "Instagram",
       "link": "https://instagram.com",
-      "image": "images/social/instagram.svg"
+      "image": "assets/images/social/instagram.svg"
   },
   {
       "name": "Discord",
       "link": "https://discord.com",
-      "image": "images/social/discord.svg"
+      "image": "assets/images/social/discord.svg"
   }
 
 ]

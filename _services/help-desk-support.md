@@ -2,7 +2,7 @@
 title: "Helpdesk & Remote IT Support"
 layout: helpdesk
 #description: Services
-icon: "fa-regular fa-wrench"
+image: "assets/images/icons/bionic-hand.png"
 weight: 6
 ---
 
