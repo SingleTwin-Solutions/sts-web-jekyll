@@ -1,17 +1,13 @@
 ---
-title: Single Twin Solutions - A Software Service Company
+title: QUICK FIX
 layout: quick-fix
-description: STS is perfect for small and medium sized businesses who don't have the time, know-how or resources to manage IT and Linux needs reliably and cost effectively.
-intro_image: "images/illustrations/sts-idea-logo.svg"
-#intro_image_absolute: true
-intro_image_hide_on_mobile: true
-show_call_box: true
+show_pricing: true 
 ---
 
-# Quick Fix Flat-Fee Linux Support
+# Quick Fix Flat Rate Support
 Our Get Me Out Of Trouble (“Quick-Fix”) process is a great way to get a hand with an urgent server/network issue which might only need a couple of hours of an expert’s time to resolve. This streamlined process is designed so that we can quickly help you on a fixed-fee basis. We will provide up to 4 hours of work to investigate and work on a resolution to your issue.
 
-# We CAN help with
+# WHAT QUICK FIXES CAN DO
 * Password resets
 * RAID hard drive issue – review/resolve
 * Quick high-level security review
@@ -22,7 +18,7 @@ Our Get Me Out Of Trouble (“Quick-Fix”) process is a great way to get a hand
 * Backup recovery
 * Or some other issue for you to evaluate us with a small issue to experience what it’s like to work with us.
 
-# We CAN'T help with
+# WHAT QUICK FIXES CAN'T DO
 * Not-urgent requests not demanding immediate attention
 * Issues that cannot be solved or worked through in one technical session of up to 4 hours
 * Project or issue that needs more than 4 hours to complete.
