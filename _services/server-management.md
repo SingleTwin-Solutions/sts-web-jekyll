@@ -4,11 +4,7 @@ date: 2019-02-28T15:15:34+10:00
 image: "assets/images/icons/icons8-server-48.png"
 weight: 8
 ---
-
-
-Internet & Network Security
-
-SingleTwin Solutions business network security service includes all the measures and practices needed to protect your company’s computer systems, data and networks from unauthorized access, theft, damage or disruption.
+We provide business network security service includes all the measures and practices needed to protect your company’s computer systems, data and networks from unauthorized access, theft, damage or disruption.
 
 This includes actions such as the implementation of firewalls, encryption, secure password management, and regular updating of security software, as well as procedures for incident response and data backup.
 

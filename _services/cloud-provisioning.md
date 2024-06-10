@@ -5,7 +5,9 @@ image: "/assets/images/icons/icons8-cube-50.png"
 weight: 10
 ---
 
-DevOps and Infrastructure as Code services
+Cloud migration and provisioning services with OpenTofu and other open source solutions. 
+
+# DevOps and Infrastructure as Code services
 
  What is OpenTofu?
 
