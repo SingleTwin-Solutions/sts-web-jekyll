@@ -7,7 +7,7 @@ bundle config set --local path 'vendor/bundle'
 # Install bundle
 bundle install
 #Add Jekyll
-bundle add jekyll
+#bundle add jekyll
 #Create A Jekyll Scaffold
 # creates template files that fail
 #bundle exec jekyll new --force --skip-bundle .
