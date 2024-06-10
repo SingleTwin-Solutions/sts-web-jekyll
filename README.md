@@ -5,34 +5,15 @@
 [Ruby version: x.x.x](https://icons8.com) 
 [Icons: icons8](https://icons8.com)  
 
+
+* [SVG and PNG images | The Noun Project](https://thenounproject.com/search/icons/?q=consulting) 
+* [Source Github project](https://github.com/SingleTwin-Solutions/sts-web-jekyll)
+
 ```
 Branding Fonts: 
 Montserrat ExtraBold
 Type Machine 
-
-```
-
-# Branding Colors
-green: #4dba87
-gray: #3a1411
-
-#### Colors can be changed at assets/css/style.scss
-```
-// Colors
-$primary: #4dba87; // base red color
-$primary-dark: #4dba87;
-$secondary: #3a1411;
-$black: #20202e;
-$light-gray: #20202e; // light gray color
-$white: #eaedf5; // light gray color
-$white-offset: #fff6f8;
-$steel: #5c5a5a;
-```
-
-* [SVG and PNG images | The Noun Project](https://thenounproject.com/search/icons/?q=consulting)
-* [Source Link Demo](https://jekyll-serif.netlify.app/)
-* [Source Github project](https://github.com/zerostaticthemes/jekyll-serif-theme)
-
+ 
 ---
 ## Installation
 
