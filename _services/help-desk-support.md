@@ -1,8 +1,7 @@
 ---
-title: "Helpdesk & Remote IT Support"
+title: "Helpdesk & IT Support"
 layout: helpdesk
-#description: Services
-image: "assets/images/icons/bionic-hand.png"
+image: "/assets/images/icons/icons8-computer-support-48.png"
 weight: 6
 ---
 
